@@ -448,6 +448,7 @@ img {
 }
 
 @media (max-width: 576px) {
+
     .nav {
         padding: 10px 15px;
     }
@@ -458,7 +459,7 @@ img {
     
     .nav-links a {
         font-size: 12px;
-    }
+    } 
     
     .nav-icons i {
         font-size: 16px;
